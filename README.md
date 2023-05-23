@@ -1,9 +1,4 @@
 # Multi-scale-image-fusion
-<p align="center">
-  <a href="assets/title.png">
-    <img src="./assets/title.png" width="80%" >
-  </a>
-</p>
 >这是一个有趣的项目
 
 >使用Opencv以及PyWavelet库，使用小波变换和拉普拉斯金字塔进行多尺度图像融合
