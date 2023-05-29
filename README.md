@@ -49,5 +49,5 @@
 
 ## 项目文件说明
   - Evaluate the effect里面是评价代码，计算互相关系数是单独的
-  - fused_image 里面是结果，没有给rgb的结果，效果不太好，等待调试
+  - Layer images 里面是分层结果，里面有两种方法的每一层图像
   - python_ppt 里面是制作ppt的一个简易程序，完整版还未完成
